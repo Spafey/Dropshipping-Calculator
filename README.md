@@ -1,2 +1,2 @@
 # Dropshipping-Calculator
-A simple tool to calculate returns on investment when setting a certain profit margin. Currently also considers the  costs related to selling typical goods through amazon FBA.
+A simple tool to calculate return on investment at a certain profit margin. Currently applies fees typically associated with selling goods through amazon FBA.
